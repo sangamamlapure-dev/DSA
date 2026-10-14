@@ -6,6 +6,8 @@ class RightTriangle {
                 System.out.print("* ");
             }
             System.out.println();
+            System.out.println();
+
         }
     }
 }
