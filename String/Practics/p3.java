@@ -9,7 +9,7 @@ class ReverseWords {
                 word = single + s.charAt(i);
             }
             else {
-                for(int j = word.length() - 1; j >= 0; j--) {
+                for(int j = single.length() - 1; j >= 0; j--) {
                     System.out.print(single.charAt(j));
                 }
 
